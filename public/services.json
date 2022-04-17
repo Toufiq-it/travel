@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name" : "Cox's Bazar",
+        "price" : "3500",
+        "description": "This little town in the far south-east of Bangladesh is known for its stunning beach which stretches for an amazing 120 kilometers from north to south along the side of the balmy Indian Ocean.",
+        "img" : "https://i.ibb.co/xF3bQNK/coxs-bazar.png" 
+    },
+    {
+        "id": 2,
+        "name" : "The Sundarbans",
+        "price" : "2500",
+        "description": "The Sundarbans are located at the point where the mighty waterways of the Brahmaputra and the scared Ganges crash into each other at the edge of the Bay of Bengal.",
+        "img" : "https://i.ibb.co/pbLb7Lt/The-Sundarbans.png" 
+    },
+    {
+        "id": 3,
+        "name" : "Bagerhat",
+        "price" : "2000",
+        "description": "Bagerhat is not as famous as Dhaka or Srimangal but this peaceful city in the south west of the country has an array of historic attractions that you can enjoy at a slower pace.The city was founded in the 15th century by the Sufi Saint Khan Jahan Ali and it is the home of the Shait Gumbad Mosqu",
+        "img" : "https://i.ibb.co/d4Hz081/Bagerhat-768x512.png" 
+    },
+    {
+        "id": 4,
+        "name" : "Gaur(Lakhnauti)",
+        "price" : "3500",
+        "description": "The ancient city of Gaur sits on the Indian border and is located in north-eastern Bangladesh.Nowadays the city is ruined and uninhabited and you will see red-hued arches as well as towers and crumbling monuments.",
+        "img" : "https://i.ibb.co/dGn1YSK/Gaur.png" 
+    },
+    {
+        "id": 5,
+        "name" : "Srimangal",
+        "price" : "2500",
+        "description": "Srimangal is the tea-growing capital of Bangladesh and the area is a riot of different hues of green.The area is famous for its rains which help the tea to grow and you will find a sea of different plantations here as you explore the highlands and the hamlets that make up Srimangal.",
+        "img" : "https://i.ibb.co/s57zvvd/Srimangal-768x512.png" 
+    },
+    {
+        "id": 6,
+        "name" : "Bandarban",
+        "price" : "3500",
+        "description": "Surrounded by the Muranja, Wayla, and Chimbook mountains that rise to nearly 1,000 meters above sea level is the stunning town of Bandaran.The area is covered in misty green and is home to tobacco farms and hilltop lookouts and there is also a lively bazaar where you will find arts and crafts from the Shan tribes from Myanmar across the border",
+        "img" : "https://i.ibb.co/LZGJhPV/Bandarban-768x411.png" 
+    },
+    {
+        "id": 7,
+        "name" : "Saint Martin",
+        "price" : "6000",
+        "description": "The little enclave of Saint Martin is like nowhere else in Bangladesh as this is the only coral island in the country.The region is covered in shifting sands and lapping seas, all nestled close to coconut groves.In many ways it looks more like the Caribbean than South Asia, and you will find delicious seafood here including fiery curries",
+        "img" : "https://i.ibb.co/Xkjkp0S/Saint-Martin-768x401.png" 
+    },
+    {
+        "id": 8,
+        "name" : "Paharpur",
+        "price" : "3500",
+        "description": "Paharpur is a pint-sized town which is most well known for the Naogaon District where you will find UNESCO World Heritage Site ruins called Somapura Mahavihara.This spot is said to be one of the most fascinating Buddhist archeological sites in South Asia",
+        "img" : "https://i.ibb.co/NnJ42kr/Somapura-Mahavihara.png" 
+    },
+    {
+        "id": 9,
+        "name" : "Kuakata",
+        "price" : "4500",
+        "description": "Kuakata Beach juts out into the Indian Ocean from the southern side of the river islands of central Bangladesh.One of the great reasons to come here is to watch the sunset over the sea with the glowing Sundarbans in the distance.",
+        "img" : "https://i.ibb.co/whHzGk5/Kuakata-768x512.png" 
+    }
+]
