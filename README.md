@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 ### website name : Travel
 website link : https://travel-guide-566a8.web.app/
 
@@ -9,10 +7,11 @@ website link : https://travel-guide-566a8.web.app/
 * css
 * react bootstrap
 * react toast
-* firebase hook
-**Work**
+* firebase hook.
+# website Works :
 * Create services components.
 * create login from.
+* create register system
 * create requireAuth page.
 * Google Authentication system.
 * Email verify and reset password system.
