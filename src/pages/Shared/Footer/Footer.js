@@ -7,7 +7,11 @@ const Footer = () => {
     return (
         <footer className='text-center mt-5'>
             <p><small>copyright @ {year}
-            <a style={{ textDecoration: 'none' }} href="#">ittoufikit@gmail.com</a>
+
+            <>
+            <a style={{ textDecoration: 'none' }} href="#"> ittoufikit@gmail.com </a>
+            </>
+
             <span>All Right Reserved</span>
             </small></p>
         </footer>

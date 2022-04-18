@@ -15,7 +15,7 @@ const Register = () => {
         user,
         loading,
         error,
-      ] = useCreateUserWithEmailAndPassword(auth);
+      ] = useCreateUserWithEmailAndPassword(auth,{sendEmailVerification: true});
       const [updateProfile, updating, updateError] = useUpdateProfile(auth);
     const navigate = useNavigate();
 
@@ -33,7 +33,6 @@ const Register = () => {
         const email = emailRef.current.value;
         const password = passwordRef.current.value;
         // const agree = event.target.terms.checked;
-        console.log(name , email , password);
 
         await createUserWithEmailAndPassword(email, password);
         await updateProfile({ displayName: name });
