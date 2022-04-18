@@ -1,6 +1,21 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### website name : Travel
+website link : https://travel-guide-566a8.web.app/
+
+### Bullet : 
+**Reqirment_use**
+* html
+* css
+* react bootstrap
+* react toast
+* firebase hook
+**Work**
+* Create services components.
+* create login from.
+* create requireAuth page.
+* Google Authentication system.
+* Email verify and reset password system.
 
 ## Available Scripts
 
